@@ -1,0 +1,4 @@
+AWS Access key=${{ACCESS_KEY}}
+AWS Secret kry=${{SECRET_KEY}}
+AWS region=south 1
+AWS IAM role=role
